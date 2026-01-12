@@ -29,7 +29,8 @@ Real-world data often requires significant preparation. Key steps taken:
 *   **Availability:** Listings with high availability tend to have lower prices/more reviews.
 
 ## 📈 Visualizations
-[Airbnb Dashboard Preview](NYC Airbnb Market visualization.png)
+<img width="976" height="789" alt="NYC Airbnb Market visualization" src="https://github.com/user-attachments/assets/9c9d4477-2b5a-4c90-aac6-dde6bd18d673" />
+
 
 *Check out the interactive Dashboard on Tableau Public:* [https://public.tableau.com/views/NYCAirbnbMarketAnalysis_17682082410870/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
